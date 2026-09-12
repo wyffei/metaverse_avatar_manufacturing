@@ -1,0 +1,16 @@
+# === Unity ===
+/unity/Library/
+/unity/Temp/
+/unity/obj/
+/unity/Logs/
+/unity/UserSettings/
+/unity/.vs/
+/unity/*.csproj
+/unity/*.sln
+/unity/MemoryCaptures/
+/unity/Build/
+/unity/Builds/
+
+# === Python ===
+__pycache__/
+*.pyc
