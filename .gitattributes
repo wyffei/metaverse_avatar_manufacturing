@@ -19,4 +19,4 @@
 
 # 语言统计排除：第三方插件与非核心代码，避免 GitHub Languages 统计失真
 unity/Assets/TextMesh?Pro/** linguist-vendored
-unity/Assets/Python_AQA/Neural_Networks/** linguist-vendored
+unity/Assets/Python_AQA/** linguist-vendored
